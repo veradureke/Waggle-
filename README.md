@@ -1,5 +1,5 @@
  
-##**Udacity · Power BI Nanodegree · Project 2** 
+## Udacity · Power BI Nanodegree · Project 2
  
 A boardroom-ready Power BI report comparing Lapdog and Lapcat device performance for the fictional pet startup, Waggle.
  
